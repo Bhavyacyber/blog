@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://bhavyacyber.github.io/blog/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://bhavyacyber.github.io/blog/</loc>
+</url>
+<url>
+<loc>https://bhavyacyber.github.io/blog/building-a-home-soc-lab-with-wazuh-sysmon-and-windows-11/</loc>
+<lastmod>2026-09-09T21:15:06+05:30</lastmod>
+<image:image>
+<image:loc>file:///C:/Users/Dell/Documents/Publii/sites/bhavya-cybersecurity/input/media/posts/temp/ChatGPT-Image-Sep-1-2026-10_02_24-PM-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file:///C:/Users/Dell/Documents/Publii/sites/bhavya-cybersecurity/input/media/posts/temp/100001-view.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
