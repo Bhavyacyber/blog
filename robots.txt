@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://bhavyacyber.github.io/blog/sitemap.xml
