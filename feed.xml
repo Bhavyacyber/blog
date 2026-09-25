@@ -3,35 +3,12 @@
     <title>BhavyaCyber Blog</title>
     <link href="https://bhavyacyber.github.io/blog/feed.xml" rel="self" />
     <link href="https://bhavyacyber.github.io/blog" />
-    <updated>2026-09-26T02:25:14+05:30</updated>
+    <updated>2026-09-26T02:24:23+05:30</updated>
     <author>
         <name>Bhavya</name>
     </author>
     <id>https://bhavyacyber.github.io/blog</id>
 
-    <entry>
-        <title>hi</title>
-        <author>
-            <name>Bhavya</name>
-        </author>
-        <link href="https://bhavyacyber.github.io/blog/hi.html"/>
-        <id>https://bhavyacyber.github.io/blog/hi.html</id>
-
-        <updated>2026-09-26T02:25:14+05:30</updated>
-            <summary type="html">
-                <![CDATA[
-                    hello world!
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    hello world!
-  </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Google Cloud Cybersecurity Updates: What Tech Teams Actually Need to Know</title>
         <author>
