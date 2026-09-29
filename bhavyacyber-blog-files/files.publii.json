@@ -92,17 +92,17 @@
     {
         "path": "/authors/bhavya/index.html",
         "type": "file",
-        "md5": "d70013926ac0b319d3d6890653d74a15"
+        "md5": "88930543ca7316529aae90bfdf9bbbc2"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8402b261f3500ecabb2bfffdcec10f4d"
+        "md5": "8a3f4b4a83c7293e7c6c8e4592c02686"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "238232455ed7003e7b7520347ccd863e"
+        "md5": "f6ec68b62556258ef65764faafaeb19b"
     },
     {
         "path": "google-cloud-cybersecurity-updates-what-tech-teams-actually-need-to-know-2.html",
@@ -110,14 +110,9 @@
         "md5": "8bf91e8368e5696cf1aa21d7da351de0"
     },
     {
-        "path": "hi-3.html",
-        "type": "file",
-        "md5": "ad651a08402a71438a7fe0b83cbc3b8e"
-    },
-    {
         "path": "index.html",
         "type": "file",
-        "md5": "6e316f47896a0d4ec9d3b08c58287ad2"
+        "md5": "b63418936c59b7884e095c0bdb285517"
     },
     {
         "path": "media",
@@ -197,7 +192,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "7fb8a91db743bebf5a1cc99771f72d0e"
+        "md5": "1102a04d5dea9edfd4ede3375ea86a24"
     },
     {
         "path": "sitemap.xsl",
@@ -217,6 +212,6 @@
     {
         "path": "the-openai-hugging-face-agent-swarm-of-2026-an-in-depth-post-mortem-and-framework-analysis.html",
         "type": "file",
-        "md5": "9f6c18e4bc5cbaabb23b4692ee315355"
+        "md5": "d06e8dd5dfd2f79e7f52bfe2804e85c7"
     }
 ]
