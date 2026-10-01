@@ -92,27 +92,27 @@
     {
         "path": "/authors/bhavya/index.html",
         "type": "file",
-        "md5": "88930543ca7316529aae90bfdf9bbbc2"
+        "md5": "9609d39c95a27150e51d0b6aa3abac5e"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8a3f4b4a83c7293e7c6c8e4592c02686"
+        "md5": "0991e8a99701f481b7412532296300a0"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f6ec68b62556258ef65764faafaeb19b"
+        "md5": "75cea4da418c92da5e0b668a658fc776"
     },
     {
         "path": "google-cloud-cybersecurity-updates-what-tech-teams-actually-need-to-know-2.html",
         "type": "file",
-        "md5": "8bf91e8368e5696cf1aa21d7da351de0"
+        "md5": "5a8186a31107c33071a0e354bfc5fb30"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "b63418936c59b7884e095c0bdb285517"
+        "md5": "394edd4bb941a79f99e40787d90ff85f"
     },
     {
         "path": "media",
@@ -185,6 +185,11 @@
         "md5": "2354b3e7a14da708bfe7ebb3011db240"
     },
     {
+        "path": "pixelleak-analyzing-autonomous-ai-agent-data-exfiltration-and-workaround-propagation-in-corporate-repositories.html",
+        "type": "file",
+        "md5": "3d602d5b86e8934b08c5829b76381b21"
+    },
+    {
         "path": "robots.txt",
         "type": "file",
         "md5": "dcc99468eba78919de4bdd97936689e7"
@@ -192,7 +197,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "1102a04d5dea9edfd4ede3375ea86a24"
+        "md5": "10ba4678b5f1d80a816c8585982f1571"
     },
     {
         "path": "sitemap.xsl",
@@ -212,6 +217,6 @@
     {
         "path": "the-openai-hugging-face-agent-swarm-of-2026-an-in-depth-post-mortem-and-framework-analysis.html",
         "type": "file",
-        "md5": "d06e8dd5dfd2f79e7f52bfe2804e85c7"
+        "md5": "2ea4c7a97b15a13046e4c85bf3095001"
     }
 ]
