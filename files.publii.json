@@ -1,0 +1,222 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "4e7faed29a7fccd2d591d9da90ca7497"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "4e1c6244455e2a19ec7b294b7b1c2331"
+    },
+    {
+        "path": "/assets/css/portfolio-overrides.css",
+        "type": "file",
+        "md5": "c98b175575bbb8b9f7616b4f47810eaa"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "a0ba884548820066dfadd8416036abba"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/portfolio.js",
+        "type": "file",
+        "md5": "ca0dc08c18393cebf76d3ab67bfe593a"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "c8f24385262425ace55bdac985c878df"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "dafec4f87fead6718cb125f0b0fc8441"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/bhavya",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/bhavya/index.html",
+        "type": "file",
+        "md5": "9609d39c95a27150e51d0b6aa3abac5e"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "0991e8a99701f481b7412532296300a0"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "75cea4da418c92da5e0b668a658fc776"
+    },
+    {
+        "path": "google-cloud-cybersecurity-updates-what-tech-teams-actually-need-to-know-2.html",
+        "type": "file",
+        "md5": "5a8186a31107c33071a0e354bfc5fb30"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "394edd4bb941a79f99e40787d90ff85f"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/2/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/gallery/Model-Armor-Flowchart.png",
+        "type": "file",
+        "md5": "2354b3e7a14da708bfe7ebb3011db240"
+    },
+    {
+        "path": "/media/posts/2/Model-Armor-Flowchart.png",
+        "type": "file",
+        "md5": "2354b3e7a14da708bfe7ebb3011db240"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/Model-Armor-Flowchart-2xl.png",
+        "type": "file",
+        "md5": "23637bef24f9d04372869dce89f57153"
+    },
+    {
+        "path": "/media/posts/2/responsive/Model-Armor-Flowchart-lg.png",
+        "type": "file",
+        "md5": "0779eaaa40f0025426c860b8be3392bb"
+    },
+    {
+        "path": "/media/posts/2/responsive/Model-Armor-Flowchart-md.png",
+        "type": "file",
+        "md5": "216912077f4b618474604c4189d3d2ab"
+    },
+    {
+        "path": "/media/posts/2/responsive/Model-Armor-Flowchart-sm.png",
+        "type": "file",
+        "md5": "2d780200806ee6151d62e9fb43e91ea6"
+    },
+    {
+        "path": "/media/posts/2/responsive/Model-Armor-Flowchart-xl.png",
+        "type": "file",
+        "md5": "23637bef24f9d04372869dce89f57153"
+    },
+    {
+        "path": "/media/posts/2/responsive/Model-Armor-Flowchart-xs.png",
+        "type": "file",
+        "md5": "a6df8697c9ead7c020549a99236c7b9b"
+    },
+    {
+        "path": "Model Armor Flowchart.png",
+        "type": "file",
+        "md5": "2354b3e7a14da708bfe7ebb3011db240"
+    },
+    {
+        "path": "pixelleak-analyzing-autonomous-ai-agent-data-exfiltration-and-workaround-propagation-in-corporate-repositories.html",
+        "type": "file",
+        "md5": "3d602d5b86e8934b08c5829b76381b21"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "dcc99468eba78919de4bdd97936689e7"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "10ba4678b5f1d80a816c8585982f1571"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "800c800bea37724be971996e29238d02"
+    },
+    {
+        "path": "the-openai-hugging-face-agent-swarm-of-2026-an-in-depth-post-mortem-and-framework-analysis.html",
+        "type": "file",
+        "md5": "2ea4c7a97b15a13046e4c85bf3095001"
+    }
+]
