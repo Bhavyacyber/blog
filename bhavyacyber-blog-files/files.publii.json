@@ -92,17 +92,17 @@
     {
         "path": "/authors/bhavya/index.html",
         "type": "file",
-        "md5": "9609d39c95a27150e51d0b6aa3abac5e"
+        "md5": "a605a11ca67c7d10bdc92621b43e0812"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "0991e8a99701f481b7412532296300a0"
+        "md5": "d350b968fb640303273cc38920638407"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "75cea4da418c92da5e0b668a658fc776"
+        "md5": "43a5285d8b9c3f23c00eb46ce6b2e798"
     },
     {
         "path": "google-cloud-cybersecurity-updates-what-tech-teams-actually-need-to-know-2.html",
@@ -112,7 +112,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "394edd4bb941a79f99e40787d90ff85f"
+        "md5": "cda6a9f08afab842a66bdc1bed2ddd7d"
     },
     {
         "path": "media",
@@ -185,9 +185,14 @@
         "md5": "2354b3e7a14da708bfe7ebb3011db240"
     },
     {
+        "path": "php2shell-cve-2026-109618-and-cve-2026-109619-an-academic-post-mortem-of-ai-assisted-core-runtime-exploitation-and-enterprise-defense-analysis.html",
+        "type": "file",
+        "md5": "deddd891bce9917cc0f081c13681ca3e"
+    },
+    {
         "path": "pixelleak-analyzing-autonomous-ai-agent-data-exfiltration-and-workaround-propagation-in-corporate-repositories.html",
         "type": "file",
-        "md5": "3d602d5b86e8934b08c5829b76381b21"
+        "md5": "c5b9d31272ea88f6428393a96ba7cc3c"
     },
     {
         "path": "robots.txt",
@@ -197,7 +202,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "10ba4678b5f1d80a816c8585982f1571"
+        "md5": "8b477538b073854487a3ea4fb70f5b17"
     },
     {
         "path": "sitemap.xsl",
@@ -217,6 +222,6 @@
     {
         "path": "the-openai-hugging-face-agent-swarm-of-2026-an-in-depth-post-mortem-and-framework-analysis.html",
         "type": "file",
-        "md5": "2ea4c7a97b15a13046e4c85bf3095001"
+        "md5": "bd8930e66f39c212c0b0fdfaefd514a8"
     }
 ]
